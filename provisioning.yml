@@ -3,8 +3,8 @@
   roles: 
     - mysql
   
-- hosts: wordpress
-  roles:
-    - webserver
-    - wordpress
+# - hosts: wordpress
+#   roles:
+#     - webserver
+#     - wordpress
       
